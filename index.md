@@ -7,13 +7,9 @@ hi. Welcome to my website! My name is Antony Vincent
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
-![Splash](assets/img/eae-1.png)
-
-![Bye](assets/img/eae-6.png)
+![Splash](assets/img/helloanto.png)
 
 # [This is my resume](pages/resume.md)
-
-![Hello](assets/img/eae-7.png)
 
 ### [LinkedIn](https://www.linkedin.com/in/antony-vincent-a22a80129/)
 
