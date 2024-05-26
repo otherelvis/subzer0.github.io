@@ -3,7 +3,7 @@ layout: post
 title: "Antony Vincent's Resume"
 categories: resume
 tags: [resume,docs]
-image: eae-7.png
+image: helloanto.png
 permalink: /resume
 date: 2024-05-27
 ---
