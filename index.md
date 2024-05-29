@@ -3,7 +3,7 @@ title: Home
 permalink: /index.html
 ---
 
-hi. Welcome to my website! My name is Antony Vincent
+hi. Welcome to my website! My name is Antony Vincent.
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
