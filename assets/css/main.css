@@ -1810,12 +1810,12 @@
 				.box.style1 .image img {
 					position: absolute;
 					/*top: 0;*/
-					height: auto;
-					width: 100%;
+					height: 100%;						/* updated by EE to prevent cropping */
+					width: 100%;						/* updated by EE to prevent cropping */
 					
-					top: 50%;
-  					left: 50%;
-  					transform: translate(-50%, -50%);
+					top: 50%;							/* updated by EE for centered image */
+  					left: 50%;							/* updated by EE for centered image */
+  					transform: translate(-50%, -50%);	/* updated by EE for centered image */
 				}
 
 			.box.style1 .inner > :last-child {
