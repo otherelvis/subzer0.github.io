@@ -1149,7 +1149,8 @@
 						position: relative !important;
 						left: 0 !important;
 						width: 100% !important;
-						height: auto !important;
+						/* height: auto !important; */
+						height: 100% !important; /* updated by EE to prevent cropping */
 
 						img {
 							position: relative;
