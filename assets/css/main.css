@@ -1806,8 +1806,7 @@
 			}
 
 				.box.style1 .image img {
-					/* position: absolute; */ /* Updated by EAE to vertically center image */
-					position: relative;
+					position: absolute;
 					/* top: 0; */ /* Commented out by EAE to prevent top alignment of image */
 
 					/* Updated by EE to test image rendering */
@@ -1815,6 +1814,7 @@
 					width: auto; */
 					height: auto; 
 					width: 100%; 
+					margins: auto; 
 				}
 
 			.box.style1 .inner > :last-child {
