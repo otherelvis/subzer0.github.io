@@ -1806,8 +1806,8 @@
 			}
 
 				.box.style1 .image img {
-					/* position: auto; */
-					position: relative; /* udpated by EE */
+					position: absolute;
+					/*position: relative;*/ /* updated by EE */
 					top: 0;
 					height: 100%;
 					width: auto;
