@@ -1810,6 +1810,8 @@
 					top: 0;
 					height: 100%;
 					width: auto;
+					margin-right: auto; /* Added by EE to prevent cropping */
+  					margin-left: auto; /* Added by EE to prevent cropping */
 				}
 
 			.box.style1 .inner > :last-child {
