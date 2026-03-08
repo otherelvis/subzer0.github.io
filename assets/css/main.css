@@ -1806,7 +1806,8 @@
 			}
 
 				.box.style1 .image img {
-					position: absolute;
+					/* position: absolute; */ /* Updated by EAE to vertically center image */
+					position: relative;
 					/* top: 0; */ /* Commented out by EAE to prevent top alignment of image */
 
 					/* Updated by EE to test image rendering */
