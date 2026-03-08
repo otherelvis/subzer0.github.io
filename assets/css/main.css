@@ -1816,7 +1816,7 @@
 					top: 50%;							/* updated by EE for centered image */
   					left: 50%;							/* updated by EE for centered image */
   					transform: translate(-50%, -50%);	/* updated by EE for centered image */
-					object-fit: cover!important       /* updated by EE for centered image */
+					object-fit: contain!important       /* updated by EE for centered image */
 				}
 
 			.box.style1 .inner > :last-child {
