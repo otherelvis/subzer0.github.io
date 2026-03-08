@@ -2424,6 +2424,9 @@
 				.box.style1 {
 					padding: 0;
 					text-align: center;
+					/* height: auto !important; */ /* Updated by EE to prevent cropping on mobile */
+					height: 100% !important;
+					/* object-fit: contain; !important; */
 				}
 
 					.box.style1 .image {
@@ -2432,6 +2435,7 @@
 						width: 100% !important;
 						/* height: auto !important; */ /* Updated by EE to prevent cropping on mobile */
 						height: 100% !important;
+						/* object-fit: contain; !important; */
 					}
 
 						.box.style1 .image img {
@@ -2439,6 +2443,7 @@
 							/* height: auto !important; */ /* Updated by EE to prevent cropping on mobile */
 							height: 100% !important;
 							width: 100%;
+							/* object-fit: contain; !important; */
 						}
 
 					.box.style1 .inner {
