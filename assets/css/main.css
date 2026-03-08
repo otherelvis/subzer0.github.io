@@ -2434,9 +2434,9 @@
 					.box.style1 .image {
 						position: relative !important;
 						left: 0 !important;
-						width: 100% !important;
+						/* width: 100% !important; */ /* Updated by EE to prevent cropping on mobile */
 						/* height: auto !important; */ /* Updated by EE to prevent cropping on mobile */
-						height: 100% !important;
+						/* height: 100% !important; */ /* Updated by EE to prevent cropping on mobile */
 						/* object-fit: contain; !important; */
 					}
 
@@ -2444,7 +2444,8 @@
 							position: relative;
 							/* height: auto !important; */ /* Updated by EE to prevent cropping on mobile */
 							height: 100% !important;
-							width: 100%;
+							/* width: 100%; */ /* Updated by EE to prevent cropping on mobile */
+							width: auto; 
 							/* object-fit: contain; !important; */
 						}
 
