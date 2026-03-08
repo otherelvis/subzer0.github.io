@@ -1808,7 +1808,8 @@
 			}
 
 				.box.style1 .image img {
-					position: absolute;
+					/* position: absolute; */
+					position: relative; 
 					/*top: 0;*/
 					height: 100%;						/* updated by EE to prevent cropping */
 					width: 100%;						/* updated by EE to prevent cropping */
@@ -1817,6 +1818,7 @@
   					left: 50%;							/* updated by EE for centered image */
   					transform: translate(-50%, -50%);	/* updated by EE for centered image */
 					object-fit: contain!important       /* updated by EE for centered image */
+					*/
 				}
 
 			.box.style1 .inner > :last-child {
