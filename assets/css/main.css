@@ -1807,7 +1807,7 @@
 
 				.box.style1 .image img {
 					position: absolute;
-					top: 0;
+					/* top: 0; */ /* Commented out by EAE to prevent top alignment of image */
 
 					/* Updated by EE to test image rendering */
 					/* height: 100%;
