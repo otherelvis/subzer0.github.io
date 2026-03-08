@@ -1807,11 +1807,13 @@
 
 				.box.style1 .image img {
 					position: absolute;
-					/*position: relative;*/ /* updated by EE */
 					top: 0;
-					height: 100%;
-					width: auto;
-					object-fit: contain;  /* added by EE to prevent cropping */
+
+					/* Updated by EE to test image rendering */
+					/* height: 100%;
+					width: auto; */
+					height: auto; 
+					width: 100%; 
 				}
 
 			.box.style1 .inner > :last-child {
